@@ -1,5 +1,3 @@
-# Copyright 2023, Acadential, All rights reserved.
-
 import torch
 from torch import nn
 

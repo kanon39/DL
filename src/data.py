@@ -1,4 +1,3 @@
-# Copyright 2023, Acadential, All rights reserved.
 import torch
 import torchvision
 import numpy as np
