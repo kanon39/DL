@@ -3,6 +3,7 @@ import torchvision
 import numpy as np
 from torchvision import transforms
 from tqdm import tqdm
+from torchvision.models import vgg16
 
 
 def get_dataloaders():
